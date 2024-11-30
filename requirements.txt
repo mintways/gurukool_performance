@@ -1,0 +1,6 @@
+Flask==2.3.2
+pandas==2.1.1
+matplotlib==3.8.0
+pyodbc>=4.0.34 --no-binary pyodbc
+numpy==1.26.0
+PyQt5==5.15.7  # or PySide2==5.15.2 if you prefer
