@@ -1,0 +1,61 @@
+Grade 2 Weekly Schedule:
+Monday:
+  Section A:
+    9:00am - 11:00am: English (Teacher: T9)
+    11:00am - 1:00pm: Math (Teacher: T10)
+    1:00pm - 3:00pm: Science (Teacher: T11)
+    3:00pm - 5:00pm: History (Teacher: T12)
+  Section B:
+    9:00am - 11:00am: Science (Teacher: T11)
+    11:00am - 1:00pm: History (Teacher: T12)
+    1:00pm - 3:00pm: English (Teacher: T9)
+    3:00pm - 5:00pm: Math (Teacher: T10)
+
+Tuesday:
+  Section A:
+    9:00am - 11:00am: Art (Teacher: T13)
+    11:00am - 1:00pm: Language (Teacher: T14)
+    1:00pm - 3:00pm: PE (Teacher: T15)
+    3:00pm - 5:00pm: Music (Teacher: T16)
+  Section B:
+    9:00am - 11:00am: PE (Teacher: T15)
+    11:00am - 1:00pm: Music (Teacher: T16)
+    1:00pm - 3:00pm: Art (Teacher: T13)
+    3:00pm - 5:00pm: Language (Teacher: T14)
+
+Wednesday:
+  Section A:
+    9:00am - 11:00am: English (Teacher: T9)
+    11:00am - 1:00pm: Math (Teacher: T10)
+    1:00pm - 3:00pm: Science (Teacher: T11)
+    3:00pm - 5:00pm: History (Teacher: T12)
+  Section B:
+    9:00am - 11:00am: Science (Teacher: T11)
+    11:00am - 1:00pm: History (Teacher: T12)
+    1:00pm - 3:00pm: English (Teacher: T9)
+    3:00pm - 5:00pm: Math (Teacher: T10)
+
+Thursday:
+  Section A:
+    9:00am - 11:00am: Art (Teacher: T13)
+    11:00am - 1:00pm: Language (Teacher: T14)
+    1:00pm - 3:00pm: PE (Teacher: T15)
+    3:00pm - 5:00pm: Music (Teacher: T16)
+  Section B:
+    9:00am - 11:00am: PE (Teacher: T15)
+    11:00am - 1:00pm: Music (Teacher: T16)
+    1:00pm - 3:00pm: Art (Teacher: T13)
+    3:00pm - 5:00pm: Language (Teacher: T14)
+
+Friday:
+  Section A:
+    9:00am - 11:00am: English (Teacher: T9)
+    11:00am - 1:00pm: Math (Teacher: T10)
+    1:00pm - 3:00pm: Science (Teacher: T11)
+    3:00pm - 5:00pm: History (Teacher: T12)
+  Section B:
+    9:00am - 11:00am: Science (Teacher: T11)
+    11:00am - 1:00pm: History (Teacher: T12)
+    1:00pm - 3:00pm: English (Teacher: T9)
+    3:00pm - 5:00pm: Math (Teacher: T10)
+

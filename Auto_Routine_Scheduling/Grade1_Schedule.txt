@@ -1,0 +1,61 @@
+Grade 1 Weekly Schedule:
+Monday:
+  Section A:
+    9:00am - 11:00am: English (Teacher: T1)
+    11:00am - 1:00pm: Math (Teacher: T2)
+    1:00pm - 3:00pm: Science (Teacher: T3)
+    3:00pm - 5:00pm: History (Teacher: T4)
+  Section B:
+    9:00am - 11:00am: Science (Teacher: T3)
+    11:00am - 1:00pm: History (Teacher: T4)
+    1:00pm - 3:00pm: English (Teacher: T1)
+    3:00pm - 5:00pm: Math (Teacher: T2)
+
+Tuesday:
+  Section A:
+    9:00am - 11:00am: Art (Teacher: T5)
+    11:00am - 1:00pm: Music (Teacher: T6)
+    1:00pm - 3:00pm: Language (Teacher: T7)
+    3:00pm - 5:00pm: PE (Teacher: T8)
+  Section B:
+    9:00am - 11:00am: Language (Teacher: T7)
+    11:00am - 1:00pm: PE (Teacher: T8)
+    1:00pm - 3:00pm: Art (Teacher: T5)
+    3:00pm - 5:00pm: Music (Teacher: T6)
+
+Wednesday:
+  Section A:
+    9:00am - 11:00am: English (Teacher: T1)
+    11:00am - 1:00pm: Math (Teacher: T2)
+    1:00pm - 3:00pm: Science (Teacher: T3)
+    3:00pm - 5:00pm: History (Teacher: T4)
+  Section B:
+    9:00am - 11:00am: Science (Teacher: T3)
+    11:00am - 1:00pm: History (Teacher: T4)
+    1:00pm - 3:00pm: English (Teacher: T1)
+    3:00pm - 5:00pm: Math (Teacher: T2)
+
+Thursday:
+  Section A:
+    9:00am - 11:00am: Art (Teacher: T5)
+    11:00am - 1:00pm: Music (Teacher: T6)
+    1:00pm - 3:00pm: Language (Teacher: T7)
+    3:00pm - 5:00pm: PE (Teacher: T8)
+  Section B:
+    9:00am - 11:00am: Language (Teacher: T7)
+    11:00am - 1:00pm: PE (Teacher: T8)
+    1:00pm - 3:00pm: Art (Teacher: T5)
+    3:00pm - 5:00pm: Music (Teacher: T6)
+
+Friday:
+  Section A:
+    9:00am - 11:00am: English (Teacher: T1)
+    11:00am - 1:00pm: Math (Teacher: T2)
+    1:00pm - 3:00pm: Science (Teacher: T3)
+    3:00pm - 5:00pm: History (Teacher: T4)
+  Section B:
+    9:00am - 11:00am: Science (Teacher: T3)
+    11:00am - 1:00pm: History (Teacher: T4)
+    1:00pm - 3:00pm: English (Teacher: T1)
+    3:00pm - 5:00pm: Math (Teacher: T2)
+
