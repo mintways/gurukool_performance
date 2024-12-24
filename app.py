@@ -20,7 +20,7 @@ def get_db_connection():
         'SERVER=SQL5111.site4now.net;'  # server name
         'DATABASE=db_a9e9e8_schoolerpdev;'  # database name
         'UID=db_a9e9e8_schoolerpdev_admin;'  # username
-        'PWD=DevEnv@123#;'  # password
+        'PWD=DevEnv@123;'  # password
     )
     return conn
 
@@ -384,7 +384,7 @@ def plot_marks_attendance_cumulative_percentage(df, student_id, averages, plot_a
 
 
 # Flask route to analyze attendance data with filtering by exam ID
-@app.route('/analyze', methods=['POST'])
+@app.route('/', methods=['POST'])
 def analyze():
     data = request.json
     student_id = data.get('student_id')
@@ -453,4 +453,4 @@ def analyze():
     # Close the database connection
     conn.close()
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
