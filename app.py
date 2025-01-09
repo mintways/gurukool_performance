@@ -384,7 +384,7 @@ def plot_marks_attendance_cumulative_percentage(df, student_id, averages, plot_a
 
 
 # Flask route to analyze attendance data with filtering by exam ID
-@app.route('/', methods=['POST'])
+@app.route('/analyze', methods=['POST'])
 def analyze():
     data = request.json
     student_id = data.get('student_id')
